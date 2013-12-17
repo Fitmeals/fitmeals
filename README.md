@@ -1,4 +1,4 @@
-fitmeals
+Fitmeals
 ========
 
-Placeholder
+Base repo for the proposed site. Main development will happen here.
